@@ -1,0 +1,184 @@
+[
+  {
+    "Id": 1,
+    "NameofAushadhi": "Ashwagandha",
+    "Images": [
+      "https://imgur.com/FqyQR8F",
+      "https://imgur.com/FqyQR8F"
+    ],
+    "Description": "Ashwagandha is an ancient medicinal herb with multiple health benefits.",
+    "Uses": "Helps reduce stress and anxiety, boosts brain function, and increases energy levels.",
+    "Precautions": "Avoid during pregnancy. Consult a physician if you have diabetes or thyroid problems.",
+    "Overview": "Ashwagandha is known for its adaptogenic properties, helping the body manage stress.",
+    "SideEffects": "May cause drowsiness, upset stomach, or nausea in some individuals.",
+    "Doses": "1-2 capsules or 500mg-1000mg per day, as directed by a healthcare provider."
+  },
+  {
+    "Id": 2,
+    "NameofAushadhi": "Brahmi",
+    "Images": [
+      "https://imgur.com/kIqLVDz",
+      "https://imgur.com/kIqLVDz"
+    ],
+    "Description": "Brahmi is a powerful herb known to improve memory and cognitive functions.",
+    "Uses": "Supports memory retention, enhances mental clarity, and reduces anxiety.",
+    "Precautions": "Avoid during pregnancy and breastfeeding. Consult a doctor if on medication for thyroid or heart diseases.",
+    "Overview": "Brahmi has been used traditionally to improve brain function and enhance memory.",
+    "SideEffects": "Some users report nausea, dry mouth, or digestive discomfort.",
+    "Doses": "300-500mg per day or as recommended by an Ayurvedic practitioner."
+  },
+  {
+    "Id": 3,
+    "NameofAushadhi": "Triphala",
+    "Images": [
+      "https://imgur.com/QpxXkkC",
+      "https://imgur.com/QpxXkkC"
+    ],
+    "Description": "Triphala is a combination of three fruits, used for detoxification and improving digestion.",
+    "Uses": "Promotes digestive health, detoxifies the body, and supports weight management.",
+    "Precautions": "Not recommended for pregnant women. High doses may cause diarrhea.",
+    "Overview": "Triphala has powerful cleansing and rejuvenating properties for the body.",
+    "SideEffects": "In some cases, may cause stomach cramps, diarrhea, or dehydration.",
+    "Doses": "1 teaspoon of Triphala powder in warm water or 1-2 capsules per day."
+  },
+  {
+    "Id": 4,
+    "NameofAushadhi": "Shatavari",
+    "Images": [
+      "https://imgur.com/nN9ykPS",
+      "https://imgur.com/nN9ykPS"
+    ],
+    "Description": "Shatavari is a female reproductive tonic and is used to balance hormones.",
+    "Uses": "Supports women's health, improves fertility, and regulates menstrual cycles.",
+    "Precautions": "Consult a physician if you have a hormone-sensitive condition. Not recommended during pregnancy without consultation.",
+    "Overview": "Shatavari is known as a rejuvenating herb for women and helps balance the hormonal system.",
+    "SideEffects": "In rare cases, may cause allergic reactions, stomach upset, or diarrhea.",
+    "Doses": "500mg-1000mg per day or as directed by an Ayurvedic expert."
+  },
+  {
+    "Id": 5,
+    "NameofAushadhi": "Neem",
+    "Images": [
+      "https://imgur.com/hEK9v2j",
+      "https://imgur.com/hEK9v2j"
+    ],
+    "Description": "Neem is renowned for its anti-inflammatory and antibacterial properties.",
+    "Uses": "Helps treat skin conditions, purifies the blood, and boosts immunity.",
+    "Precautions": "Avoid excessive use. Not recommended for children or pregnant women.",
+    "Overview": "Neem has been used in Ayurvedic medicine for centuries to treat various skin and immune-related conditions.",
+    "SideEffects": "May cause low blood sugar, fatigue, or liver issues if used in excess.",
+    "Doses": "1-2 neem tablets or 1 teaspoon of neem powder per day."
+  },
+  {
+    "Id": 6,
+    "NameofAushadhi": "Tulsi",
+    "Images": [
+      "https://imgur.com/nN9ykPS",
+      "https://imgur.com/nN9ykPS"
+    ],
+    "Description": "Tulsi, or Holy Basil, is considered a sacred herb with medicinal properties.",
+    "Uses": "Boosts immunity, helps relieve stress, and fights respiratory infections.",
+    "Precautions": "Avoid excessive use. Not recommended during pregnancy.",
+    "Overview": "Tulsi is an adaptogen and has antibacterial, antiviral, and anti-inflammatory properties.",
+    "SideEffects": "In rare cases, may cause nausea, headache, or digestive upset.",
+    "Doses": "1-2 capsules or 1 teaspoon of Tulsi tea per day."
+  },
+  {
+    "Id": 7,
+    "NameofAushadhi": "Guggul",
+    "Images": [
+      "https://imgur.com/hDddMhA",
+      "https://imgur.com/hDddMhA"
+    ],
+    "Description": "Guggul is used for its anti-inflammatory and cholesterol-lowering properties.",
+    "Uses": "Helps in managing cholesterol, supports joint health, and promotes weight loss.",
+    "Precautions": "Consult a physician if you have liver or kidney issues.",
+    "Overview": "Guggul is a resin extracted from trees, used in traditional medicine to treat obesity and high cholesterol.",
+    "SideEffects": "May cause diarrhea, headache, or skin rash in some individuals.",
+    "Doses": "500mg-1000mg per day, typically taken with meals."
+  },
+  {
+    "Id": 8,
+    "NameofAushadhi": "Haritaki",
+    "Images": [
+      "https://imgur.com/hEK9v2j",
+      "https://imgur.com/hEK9v2j"
+    ],
+    "Description": "Haritaki is a fruit used in Ayurveda for digestive and respiratory health.",
+    "Uses": "Improves digestion, promotes bowel health, and supports lung function.",
+    "Precautions": "May cause dehydration in some individuals. Avoid excessive use.",
+    "Overview": "Haritaki is known for its detoxifying properties and ability to regulate digestive processes.",
+    "SideEffects": "Can cause loose stools, dehydration, or upset stomach if taken in high doses.",
+    "Doses": "500mg-1000mg per day, usually taken with warm water."
+  },
+  {
+    "Id": 9,
+    "NameofAushadhi": "Arjuna",
+    "Images": [
+      "https://imgur.com/kIqLVDz",
+      "https://imgur.com/kIqLVDz"
+    ],
+    "Description": "Arjuna is a heart tonic used in Ayurveda to support cardiovascular health.",
+    "Uses": "Improves heart function, regulates blood pressure, and supports cholesterol levels.",
+    "Precautions": "Consult a physician if you have any existing heart conditions. Avoid excessive use.",
+    "Overview": "Arjuna is known for its powerful cardiovascular benefits and is often used in herbal heart tonics.",
+    "SideEffects": "May cause dizziness, headache, or nausea in some individuals.",
+    "Doses": "500mg-1000mg per day or as directed by an Ayurvedic practitioner."
+  },
+  {
+    "Id": 10,
+    "NameofAushadhi": "Guduchi",
+    "Images": [
+      "https://imgur.com/QpxXkkC",
+      "https://imgur.com/QpxXkkC"
+    ],
+    "Description": "Guduchi is an immunity-boosting herb used for detoxification and vitality.",
+    "Uses": "Boosts immune function, supports detoxification, and promotes longevity.",
+    "Precautions": "Avoid excessive use. Consult a physician if on medication for autoimmune conditions.",
+    "Overview": "Guduchi is known for its rejuvenating properties and is often used in traditional remedies for immunity and vitality.",
+    "SideEffects": "Some users may experience mild digestive upset or allergic reactions.",
+    "Doses": "500mg-1000mg per day or as prescribed by a healthcare provider."
+  },
+  {
+    "Id": 11,
+    "NameofAushadhi": "Manjistha",
+    "Images": [
+      "https://imgur.com/hDddMhA",
+      "https://imgur.com/hDddMhA"
+    ],
+    "Description": "Manjistha is a powerful blood purifier used in Ayurvedic medicine.",
+    "Uses": "Helps cleanse the blood, improve skin health, and support liver function.",
+    "Precautions": "Avoid during pregnancy. Consult a doctor before use if you have a liver condition.",
+    "Overview": "Manjistha is often used in herbal treatments to support the detoxification of the blood and promote clear skin.",
+    "SideEffects": "May cause nausea, diarrhea, or digestive discomfort in some individuals.",
+    "Doses": "500mg-1000mg per day, typically taken with warm water."
+  },
+  {
+    "Id": 12,
+    "NameofAushadhi": "Amla",
+    "Images": [
+      "https://imgur.com/hEK9v2j",
+      "https://imgur.com/hEK9v2j"
+    ],
+    "Description": "Amla is a powerful antioxidant-rich fruit known for its high vitamin C content.",
+    "Uses": "Boosts immunity, supports digestion, and promotes healthy skin and hair.",
+    "Precautions": "Avoid excessive use. May not be suitable for people with low blood sugar.",
+    "Overview": "Amla is widely used in Ayurvedic medicine to improve overall health and vitality.",
+    "SideEffects": "In rare cases, may cause digestive upset or diarrhea.",
+    "Doses": "1-2 capsules or 1 teaspoon of Amla powder per day."
+  },
+  {
+    "Id": 13,
+    "NameofAushadhi": "Licorice",
+    "Images": [
+      "https://imgur.com/nN9ykPS",
+      "https://imgur.com/nN9ykPS"
+    ],
+    "Description": "Licorice root is known for its anti-inflammatory and soothing properties.",
+    "Uses": "Helps soothe digestive issues, supports respiratory health, and reduces inflammation.",
+    "Precautions": "Not recommended for people with high blood pressure or heart conditions.",
+    "Overview": "Licorice is often used in traditional medicine to treat digestive and respiratory issues.",
+    "SideEffects": "In excessive doses, may cause high blood pressure, headaches, or fatigue.",
+    "Doses": "300-500mg per day or as recommended by a healthcare professional."
+  }
+]
