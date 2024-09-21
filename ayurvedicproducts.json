@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "Name": "Triphala Powder",
+    "Image": "https://imgur.com/6nZsiN0",
+    "Description": "Triphala powder is a combination of three fruits, known for its detoxifying and digestive benefits.",
+    "Price": 10.99,
+    "Uses": "Supports digestion, promotes detoxification, and aids in weight management.",
+    "Doses": "1 teaspoon in warm water daily or as directed by a healthcare professional.",
+    "Stock": true,
+    "NetQuantity": "100g"
+  },
+  {
+    "Id": 2,
+    "Name": "Ashwagandha Powder",
+    "Image": "https://imgur.com/W26UFSV",
+    "Description": "Ashwagandha powder is an ancient adaptogenic herb that helps manage stress and boosts energy.",
+    "Price": 12.49,
+    "Uses": "Helps reduce stress and anxiety, improves energy levels, and supports brain function.",
+    "Doses": "1 teaspoon mixed with water or milk daily or as advised by an Ayurvedic practitioner.",
+    "Stock": true,
+    "NetQuantity": "150g"
+  },
+  {
+    "Id": 3,
+    "Name": "Amla Powder",
+    "Image": "https://imgur.com/aYvfpUn",
+    "Description": "Amla powder is rich in vitamin C and antioxidants, promoting immune support and healthy skin.",
+    "Price": 8.99,
+    "Uses": "Boosts immunity, supports healthy skin and hair, and aids digestion.",
+    "Doses": "1 teaspoon in water or juice daily or as recommended by a healthcare provider.",
+    "Stock": false,
+    "NetQuantity": "200g"
+  },
+  {
+    "Id": 4,
+    "Name": "Moringa Powder",
+    "Image": "https://imgur.com/WD13fjf",
+    "Description": "Moringa powder is a nutrient-rich superfood known for its energy-boosting and anti-inflammatory properties.",
+    "Price": 9.99,
+    "Uses": "Supports overall health, provides essential nutrients, and helps reduce inflammation.",
+    "Doses": "1 teaspoon in water, smoothies, or food daily or as directed by a nutritionist.",
+    "Stock": true,
+    "NetQuantity": "250g"
+  }
+]
