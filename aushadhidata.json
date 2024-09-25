@@ -3,8 +3,8 @@
     "Id": 1,
     "NameofAushadhi": "Ashwagandha",
     "Images": [
-      "https://imgur.com/FqyQR8F",
-      "https://imgur.com/FqyQR8F"
+      "https://i.imgur.com/ucwUVY2.png",
+      "https://i.imgur.com/ucwUVY2.png"
     ],
     "Description": "Ashwagandha is an ancient medicinal herb with multiple health benefits.",
     "Uses": "Helps reduce stress and anxiety, boosts brain function, and increases energy levels.",
@@ -17,8 +17,8 @@
     "Id": 2,
     "NameofAushadhi": "Brahmi",
     "Images": [
-      "https://imgur.com/kIqLVDz",
-      "https://imgur.com/kIqLVDz"
+      "https://i.imgur.com/QxLK1t4.png",
+      "https://i.imgur.com/QxLK1t4.png"
     ],
     "Description": "Brahmi is a powerful herb known to improve memory and cognitive functions.",
     "Uses": "Supports memory retention, enhances mental clarity, and reduces anxiety.",
@@ -31,8 +31,8 @@
     "Id": 3,
     "NameofAushadhi": "Triphala",
     "Images": [
-      "https://imgur.com/QpxXkkC",
-      "https://imgur.com/QpxXkkC"
+      "https://i.imgur.com/kLhXk3i.png",
+      "https://i.imgur.com/kLhXk3i.png"
     ],
     "Description": "Triphala is a combination of three fruits, used for detoxification and improving digestion.",
     "Uses": "Promotes digestive health, detoxifies the body, and supports weight management.",
@@ -45,8 +45,8 @@
     "Id": 4,
     "NameofAushadhi": "Shatavari",
     "Images": [
-      "https://imgur.com/nN9ykPS",
-      "https://imgur.com/nN9ykPS"
+      "https://i.imgur.com/l66gsfW.png",
+      "https://i.imgur.com/l66gsfW.png"
     ],
     "Description": "Shatavari is a female reproductive tonic and is used to balance hormones.",
     "Uses": "Supports women's health, improves fertility, and regulates menstrual cycles.",
@@ -59,8 +59,8 @@
     "Id": 5,
     "NameofAushadhi": "Neem",
     "Images": [
-      "https://imgur.com/hEK9v2j",
-      "https://imgur.com/hEK9v2j"
+      "https://i.imgur.com/qTSe7DV.png",
+      "https://i.imgur.com/qTSe7DV.png"
     ],
     "Description": "Neem is renowned for its anti-inflammatory and antibacterial properties.",
     "Uses": "Helps treat skin conditions, purifies the blood, and boosts immunity.",
@@ -73,8 +73,8 @@
     "Id": 6,
     "NameofAushadhi": "Tulsi",
     "Images": [
-      "https://imgur.com/nN9ykPS",
-      "https://imgur.com/nN9ykPS"
+      "https://i.imgur.com/ucwUVY2.png",
+      "https://i.imgur.com/ucwUVY2.png"
     ],
     "Description": "Tulsi, or Holy Basil, is considered a sacred herb with medicinal properties.",
     "Uses": "Boosts immunity, helps relieve stress, and fights respiratory infections.",
@@ -87,8 +87,8 @@
     "Id": 7,
     "NameofAushadhi": "Guggul",
     "Images": [
-      "https://imgur.com/hDddMhA",
-      "https://imgur.com/hDddMhA"
+      "https://i.imgur.com/l66gsfW.png",
+      "https://i.imgur.com/l66gsfW.png"
     ],
     "Description": "Guggul is used for its anti-inflammatory and cholesterol-lowering properties.",
     "Uses": "Helps in managing cholesterol, supports joint health, and promotes weight loss.",
@@ -101,8 +101,8 @@
     "Id": 8,
     "NameofAushadhi": "Haritaki",
     "Images": [
-      "https://imgur.com/hEK9v2j",
-      "https://imgur.com/hEK9v2j"
+      "https://i.imgur.com/g24lOxk.png",
+      "https://i.imgur.com/g24lOxk.png"
     ],
     "Description": "Haritaki is a fruit used in Ayurveda for digestive and respiratory health.",
     "Uses": "Improves digestion, promotes bowel health, and supports lung function.",
@@ -114,9 +114,9 @@
   {
     "Id": 9,
     "NameofAushadhi": "Arjuna",
-    "Images": [
-      "https://imgur.com/kIqLVDz",
-      "https://imgur.com/kIqLVDz"
+     "Images": [
+      "https://i.imgur.com/ucwUVY2.png",
+      "https://i.imgur.com/ucwUVY2.png"
     ],
     "Description": "Arjuna is a heart tonic used in Ayurveda to support cardiovascular health.",
     "Uses": "Improves heart function, regulates blood pressure, and supports cholesterol levels.",
@@ -129,8 +129,8 @@
     "Id": 10,
     "NameofAushadhi": "Guduchi",
     "Images": [
-      "https://imgur.com/QpxXkkC",
-      "https://imgur.com/QpxXkkC"
+      "https://i.imgur.com/g24lOxk.png",
+      "https://i.imgur.com/g24lOxk.png"
     ],
     "Description": "Guduchi is an immunity-boosting herb used for detoxification and vitality.",
     "Uses": "Boosts immune function, supports detoxification, and promotes longevity.",
@@ -143,8 +143,8 @@
     "Id": 11,
     "NameofAushadhi": "Manjistha",
     "Images": [
-      "https://imgur.com/hDddMhA",
-      "https://imgur.com/hDddMhA"
+      "https://i.imgur.com/ucwUVY2.png",
+      "https://i.imgur.com/ucwUVY2.png"
     ],
     "Description": "Manjistha is a powerful blood purifier used in Ayurvedic medicine.",
     "Uses": "Helps cleanse the blood, improve skin health, and support liver function.",
@@ -157,8 +157,8 @@
     "Id": 12,
     "NameofAushadhi": "Amla",
     "Images": [
-      "https://imgur.com/hEK9v2j",
-      "https://imgur.com/hEK9v2j"
+      "https://i.imgur.com/ucwUVY2.png",
+      "https://i.imgur.com/ucwUVY2.png"
     ],
     "Description": "Amla is a powerful antioxidant-rich fruit known for its high vitamin C content.",
     "Uses": "Boosts immunity, supports digestion, and promotes healthy skin and hair.",
@@ -171,8 +171,8 @@
     "Id": 13,
     "NameofAushadhi": "Licorice",
     "Images": [
-      "https://imgur.com/nN9ykPS",
-      "https://imgur.com/nN9ykPS"
+      "https://i.imgur.com/qTSe7DV.png",
+      "https://i.imgur.com/qTSe7DV.png"
     ],
     "Description": "Licorice root is known for its anti-inflammatory and soothing properties.",
     "Uses": "Helps soothe digestive issues, supports respiratory health, and reduces inflammation.",
