@@ -13,7 +13,7 @@
   {
     "Id": 2,
     "Name": "Ashwagandha Powder",
-    "Image": "https://imgur.com/W26UFSV",
+    "Image": "https://i.imgur.com/W26UFSV.jpeg",
     "Description": "Ashwagandha powder is an ancient adaptogenic herb that helps manage stress and boosts energy.",
     "Price": 12.49,
     "Uses": "Helps reduce stress and anxiety, improves energy levels, and supports brain function.",
@@ -24,7 +24,7 @@
   {
     "Id": 3,
     "Name": "Amla Powder",
-    "Image": "https://imgur.com/aYvfpUn",
+    "Image": "https://i.imgur.com/aYvfpUn.jpeg",
     "Description": "Amla powder is rich in vitamin C and antioxidants, promoting immune support and healthy skin.",
     "Price": 8.99,
     "Uses": "Boosts immunity, supports healthy skin and hair, and aids digestion.",
@@ -35,7 +35,7 @@
   {
     "Id": 4,
     "Name": "Moringa Powder",
-    "Image": "https://imgur.com/WD13fjf",
+    "Image": "https://i.imgur.com/WD13fjf.jpeg",
     "Description": "Moringa powder is a nutrient-rich superfood known for its energy-boosting and anti-inflammatory properties.",
     "Price": 9.99,
     "Uses": "Supports overall health, provides essential nutrients, and helps reduce inflammation.",
