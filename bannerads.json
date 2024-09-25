@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "ImageUrl": "https://i.imgur.com/bhWxFxU.png",
+    "Title": "Herbal Immunity Boosters",
+    "Description": "Explore a range of herbal supplements to strengthen your immunity naturally.",
+    "RedirectUrl": "https://example.com/immunity-boosters"
+  },
+  {
+    "Id": 2,
+    "ImageUrl": "https://i.imgur.com/0AXlwlP.png",
+    "Title": "Ayurvedic Skincare",
+    "Description": "Discover the best Ayurvedic skincare products for glowing, healthy skin.",
+    "RedirectUrl": "https://example.com/skincare"
+  },
+  {
+    "Id": 3,
+    "ImageUrl": "https://i.imgur.com/qzamy7r.png",
+    "Title": "Weight Management Solutions",
+    "Description": "Manage your weight with these natural Ayurvedic supplements.",
+    "RedirectUrl": "https://example.com/weight-management"
+  },
+  {
+    "Id": 4,
+    "ImageUrl": "https://i.imgur.com/bhWxFxU.png",
+    "Title": "Natural Stress Relief",
+    "Description": "Find balance with Ayurvedic remedies designed to reduce stress and anxiety.",
+    "RedirectUrl": "https://example.com/stress-relief"
+  },
+  {
+    "Id": 5,
+    "ImageUrl": "https://i.imgur.com/0AXlwlP.png",
+    "Title": "Digestive Health",
+    "Description": "Support your digestive system with Ayurvedic herbal treatments.",
+    "RedirectUrl": "https://example.com/digestive-health"
+  }
+]
