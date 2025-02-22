@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Turmeric Milk for Immunity",
+    "description": "A traditional Ayurvedic remedy that helps boost immunity and reduce inflammation.",
+    "photos": [
+      "https://example.com/turmeric_milk1.jpg",
+      "https://example.com/turmeric_milk2.jpg"
+    ],
+    "ayurvedicProductsID": 3,
+    "aushadhiID": 7,
+    "ingredients": ["Turmeric", "Milk", "Black Pepper", "Honey"],
+    "preparation": "Heat a cup of milk, add 1/2 teaspoon of turmeric, a pinch of black pepper, and mix well. Add honey if desired.",
+    "usageInstructions": "Drink warm before bedtime for best results.",
+    "benefits": ["Boosts immunity", "Reduces inflammation", "Improves digestion"],
+    "precautions": ["Avoid if allergic to dairy", "Do not consume in excess"]
+  },
+  {
+    "id": 2,
+    "title": "Ginger Tea for Digestion",
+    "description": "Ginger tea is a natural remedy for indigestion, bloating, and nausea.",
+    "photos": [
+      "https://example.com/ginger_tea1.jpg",
+      "https://example.com/ginger_tea2.jpg"
+    ],
+    "ayurvedicProductsID": 5,
+    "aushadhiID": 12,
+    "ingredients": ["Ginger", "Water", "Honey", "Lemon"],
+    "preparation": "Boil water, add grated ginger, let it steep for 5 minutes, then strain. Add honey and lemon juice.",
+    "usageInstructions": "Drink after meals to aid digestion.",
+    "benefits": ["Improves digestion", "Relieves nausea", "Reduces bloating"],
+    "precautions": ["Avoid if you have ulcers", "Not recommended for people on blood thinners"]
+  },
+  {
+    "id": 3,
+    "title": "Amla Juice for Hair Growth",
+    "description": "Amla (Indian Gooseberry) is rich in Vitamin C and promotes healthy hair growth.",
+    "photos": [
+      "https://example.com/amla_juice1.jpg",
+      "https://example.com/amla_juice2.jpg"
+    ],
+    "ayurvedicProductsID": 8,
+    "aushadhiID": 1,
+    "ingredients": ["Amla", "Water", "Honey"],
+    "preparation": "Blend fresh amla with water, strain the juice, and add honey for taste.",
+    "usageInstructions": "Drink on an empty stomach for best results.",
+    "benefits": ["Strengthens hair", "Reduces hair fall", "Improves skin health"],
+    "precautions": ["May lower blood sugar levels", "Avoid excessive consumption"]
+  },
+  {
+    "id": 4,
+    "title": "Tulsi Tea for Cough & Cold",
+    "description": "Tulsi (Holy Basil) tea is an excellent remedy for colds, flu, and respiratory issues.",
+    "photos": [
+      "https://example.com/tulsi_tea1.jpg",
+      "https://example.com/tulsi_tea2.jpg"
+    ],
+    "ayurvedicProductsID": 9,
+    "aushadhiID": 4,
+    "ingredients": ["Tulsi leaves", "Water", "Honey", "Ginger"],
+    "preparation": "Boil tulsi leaves in water, add grated ginger, strain, and add honey.",
+    "usageInstructions": "Drink twice a day to relieve cough and cold.",
+    "benefits": ["Clears respiratory tract", "Boosts immunity", "Relieves congestion"],
+    "precautions": ["Avoid excessive consumption", "Not suitable for pregnant women"]
+  },
+  {
+    "id": 5,
+    "title": "Neem Paste for Acne",
+    "description": "Neem has antibacterial properties that help treat acne and skin infections.",
+    "photos": [
+      "https://example.com/neem_paste1.jpg",
+      "https://example.com/neem_paste2.jpg"
+    ],
+    "ayurvedicProductsID": 11,
+    "aushadhiID": 6,
+    "ingredients": ["Neem leaves", "Water", "Turmeric"],
+    "preparation": "Grind neem leaves with water to make a paste, add a pinch of turmeric.",
+    "usageInstructions": "Apply to affected areas and leave for 15 minutes before washing off.",
+    "benefits": ["Clears acne", "Reduces skin infections", "Balances oil production"],
+    "precautions": ["May cause dryness, use moisturizer", "Avoid contact with eyes"]
+  },
+  {
+    "id": 6,
+    "title": "Triphala Powder for Detox",
+    "description": "Triphala is a powerful Ayurvedic remedy for detoxifying the body and improving digestion.",
+    "photos": [
+      "https://example.com/triphala1.jpg",
+      "https://example.com/triphala2.jpg"
+    ],
+    "ayurvedicProductsID": 13,
+    "aushadhiID": 10,
+    "ingredients": ["Triphala powder", "Warm water", "Honey"],
+    "preparation": "Mix 1 teaspoon of Triphala powder in warm water, add honey for taste.",
+    "usageInstructions": "Drink before bedtime for best results.",
+    "benefits": ["Detoxifies body", "Improves digestion", "Boosts metabolism"],
+    "precautions": ["Avoid excessive use", "May cause diarrhea in high doses"]
+  },
+  {
+    "id": 7,
+    "title": "Ashwagandha for Stress Relief",
+    "description": "Ashwagandha is an adaptogen that helps manage stress and anxiety.",
+    "photos": [
+      "https://example.com/ashwagandha1.jpg",
+      "https://example.com/ashwagandha2.jpg"
+    ],
+    "ayurvedicProductsID": 15,
+    "aushadhiID": 2,
+    "ingredients": ["Ashwagandha powder", "Milk", "Honey"],
+    "preparation": "Mix 1 teaspoon of Ashwagandha powder in warm milk, add honey if desired.",
+    "usageInstructions": "Drink before bedtime for relaxation.",
+    "benefits": ["Reduces stress", "Improves sleep", "Boosts energy"],
+    "precautions": ["Not recommended for pregnant women", "May cause drowsiness"]
+  },
+  {
+    "id": 8,
+    "title": "Clove Oil for Toothache",
+    "description": "Clove oil is a natural pain reliever for toothaches and gum infections.",
+    "photos": [
+      "https://example.com/clove_oil1.jpg",
+      "https://example.com/clove_oil2.jpg"
+    ],
+    "ayurvedicProductsID": 16,
+    "aushadhiID": 14,
+    "ingredients": ["Clove oil", "Cotton ball"],
+    "preparation": "Dip a cotton ball in clove oil.",
+    "usageInstructions": "Apply to the affected tooth for instant relief.",
+    "benefits": ["Relieves toothache", "Reduces gum infections", "Acts as an antiseptic"],
+    "precautions": ["Do not ingest directly", "Use in moderation"]
+  },
+  {
+    "id": 9,
+    "title": "Fennel Seeds for Digestion",
+    "description": "Fennel seeds help relieve bloating, indigestion, and gas.",
+    "photos": [
+      "https://example.com/fennel1.jpg",
+      "https://example.com/fennel2.jpg"
+    ],
+    "ayurvedicProductsID": 18,
+    "aushadhiID": 9,
+    "ingredients": ["Fennel seeds", "Water"],
+    "preparation": "Chew fennel seeds or steep in hot water to make tea.",
+    "usageInstructions": "Drink after meals for better digestion.",
+    "benefits": ["Aids digestion", "Reduces bloating", "Relieves gas"],
+    "precautions": ["Avoid excessive use", "Not recommended for pregnant women"]
+  },
+  {
+    "id": 10,
+    "title": "Aloe Vera Gel for Skin Hydration",
+    "description": "Aloe Vera is a natural moisturizer that soothes dry and irritated skin.",
+    "photos": [
+      "https://example.com/aloe_vera1.jpg",
+      "https://example.com/aloe_vera2.jpg"
+    ],
+    "ayurvedicProductsID": 20,
+    "aushadhiID": 5,
+    "ingredients": ["Aloe Vera gel"],
+    "preparation": "Extract fresh Aloe Vera gel from the leaf.",
+    "usageInstructions": "Apply directly to the skin and leave it on.",
+    "benefits": ["Hydrates skin", "Reduces irritation", "Soothes sunburns"],
+    "precautions": ["Patch test before use", "Avoid contact with eyes"]
+  }
+]
