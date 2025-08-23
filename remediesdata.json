@@ -3,9 +3,10 @@
     "id": 1,
     "title": "Turmeric Milk for Immunity",
     "description": "A traditional Ayurvedic remedy that helps boost immunity and reduce inflammation.",
-    "photos": [
-      "https://example.com/turmeric_milk1.jpg",
-      "https://example.com/turmeric_milk2.jpg"
+    "photos":  [
+      "https://i.imgur.com/ucwUVY2.png",
+      "https://i.imgur.com/QxLK1t4.png",
+      "https://i.imgur.com/kLhXk3i.png"
     ],
     "ayurvedicProductsID": 3,
     "aushadhiID": 7,
@@ -20,8 +21,9 @@
     "title": "Ginger Tea for Digestion",
     "description": "Ginger tea is a natural remedy for indigestion, bloating, and nausea.",
     "photos": [
-      "https://example.com/ginger_tea1.jpg",
-      "https://example.com/ginger_tea2.jpg"
+      "https://i.imgur.com/QxLK1t4.png",
+      "https://i.imgur.com/kLhXk3i.png",
+      "https://i.imgur.com/ucwUVY2.png"
     ],
     "ayurvedicProductsID": 5,
     "aushadhiID": 12,
@@ -36,8 +38,9 @@
     "title": "Amla Juice for Hair Growth",
     "description": "Amla (Indian Gooseberry) is rich in Vitamin C and promotes healthy hair growth.",
     "photos": [
-      "https://example.com/amla_juice1.jpg",
-      "https://example.com/amla_juice2.jpg"
+      "https://i.imgur.com/kLhXk3i.png",
+      "https://i.imgur.com/ucwUVY2.png",
+      "https://i.imgur.com/QxLK1t4.png"
     ],
     "ayurvedicProductsID": 8,
     "aushadhiID": 1,
